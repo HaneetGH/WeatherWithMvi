@@ -5,7 +5,7 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.haneet.assignment.data.data_model.LocationTable
 import com.haneet.assignment.data.room.database.dao.*
-import com.whide.partner.data.repository.utils.RoomConverters
+import com.haneet.assignment.utils.RoomConverters
 
 
 import com.whide.partner.networking.tunnel.database.migration.Migration1To2

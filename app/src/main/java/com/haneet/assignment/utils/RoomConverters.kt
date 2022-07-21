@@ -1,4 +1,4 @@
-package com.whide.partner.data.repository.utils
+package com.haneet.assignment.utils
 
 import androidx.room.TypeConverter
 import java.util.*
